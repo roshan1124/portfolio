@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.91a149a8.css",
+    "main.js": "/portfolio/static/js/main.79d662fa.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.36cb9d82f4d041a8d520.jpg",
+    "static/media/pvz.webp": "/portfolio/static/media/pvz.926b69d4801cfe6c114a.webp",
+    "static/media/stockmarket.webp": "/portfolio/static/media/stockmarket.300bd4c5f0a3fc6ce200.webp",
+    "static/media/webchatapp.webp": "/portfolio/static/media/webchatapp.14f084f2d29f09677638.webp",
+    "static/media/p1.png": "/portfolio/static/media/p1.7038304d90ccd6e5c39d.png",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/portfolio/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/portfolio/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/portfolio/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/portfolio/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/Roshan_Resume.pdf": "/portfolio/static/media/Roshan_Resume.f9040d1588088720fe5e.pdf",
+    "static/media/GildaDisplay-Regular.ttf": "/portfolio/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/youfarm.webp": "/portfolio/static/media/youfarm.9f622864c2c2b5e23232.webp",
+    "static/media/MyImage.webp": "/portfolio/static/media/MyImage.ab66301e99853ce3d083.webp",
+    "static/media/coding-svg-clipart.svg": "/portfolio/static/media/coding-svg-clipart.c7dc2b641f32384d893b.svg",
+    "static/media/gotosite.webp": "/portfolio/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/learn-coding-clipart.svg": "/portfolio/static/media/learn-coding-clipart.02d4332782a937117030.svg",
+    "static/media/github.webp": "/portfolio/static/media/github.ed1c06d925fff0b57e32.webp",
+    "static/media/exploiter.webp": "/portfolio/static/media/exploiter.e6dc36ad58ecf6094fd0.webp",
+    "index.html": "/portfolio/index.html",
+    "main.91a149a8.css.map": "/portfolio/static/css/main.91a149a8.css.map",
+    "main.79d662fa.js.map": "/portfolio/static/js/main.79d662fa.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a149a8.css",
+    "static/js/main.79d662fa.js"
+  ]
+}
